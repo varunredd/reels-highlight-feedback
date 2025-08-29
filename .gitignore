@@ -19,3 +19,5 @@ __pycache__/
 # === Explicitly keep JSON run files ===
 !runs/*.json
 reels-clips/
+!data/clips_compressed/*.mp4
+
