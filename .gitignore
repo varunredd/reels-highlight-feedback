@@ -1,0 +1,16 @@
+# Large/temporary files
+data/videos/*
+data/audio/*
+data/clips/*
+data/transcripts/*
+runs/*
+notebooks/reviews/*
+venv/
+__pycache__/
+.cache/
+models/*
+
+# Keep small placeholders
+!data/.gitkeep
+!notebooks/.gitkeep
+!models/.gitkeep
