@@ -1,9 +1,7 @@
 # Large/temporary files
 data/videos/*
 data/audio/*
-data/clips/*
 data/transcripts/*
-runs/*
 notebooks/reviews/*
 venv/
 __pycache__/
