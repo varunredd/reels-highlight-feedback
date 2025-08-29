@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-28_22-43-00",
+  "timestamp": "2025-08-29_03-45-54",
   "video": "data/videos/output.mp4",
   "model_used": "transformer",
   "num_highlights": 5,
@@ -27,16 +27,16 @@
     },
     {
       "rank": 4,
-      "score": 0.40228796005249023,
-      "times": "00:07:35,000 --> 00:08:20,000",
-      "text": "How much has Leonel Messi pushed you to become a better player? I'm pushed to myself. I don't need other players to push myself. I just want to see that I was in sporting. I push myself all the time to be the best. As I say many times in my opinion, I'm the best. I think we have to think like that. Not just in my job, but you have to think in your job. You are the best reporter. I'm thinking like that. If I'm not thinking like that, I'm not going to be stronger than I think I am. But you also love individual rules. I'm not a tea. It's part of my sacrifice, my obsession to win, to have success. When I say success, it's a work for that. Talent is not enough. I did it myself so much that this is part of me. Records is part of me. I don't follow the records. The records follow me, which is different. Are you addicted to winning? Yes, I am. I'm addicted to the success.",
+      "score": 0.34541624784469604,
+      "times": "00:04:05,000 --> 00:04:50,000",
+      "text": "I don't think so. I just think that critics motivate him. I think he feels, if people criticize me, is because I am... I did what I did and I still try to do when he gets that as an extra motivation. I think as an opponent, you should be quiet and don't say a wrong word about him because that would be always a motivation for him. I think he's the player that everybody knows, he is and mentally really very, very strong. Once again, as you say, it's Cristiano Ronaldo and it's controversy once again. Why is it always the case with you? I don't know, maybe it's someone who don't like me but because I'm maybe I'm too good.",
       "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/tree/main/data/clips_compressed/clip_4.mp4"
     },
     {
       "rank": 5,
-      "score": 0.3416905701160431,
-      "times": "00:04:25,000 --> 00:05:10,000",
-      "text": "I did what I did and I still try to do when he gets that as an extra motivation. I think as an opponent, you should be quiet and don't say a wrong word about him because that would be always a motivation for him. I think he's the player that everybody knows, he is and mentally really very, very strong. Once again, as you say, it's Cristiano Ronaldo and it's controversy once again. Why is it always the case with you? I don't know, maybe it's someone who don't like me but because I'm maybe I'm too good. It is what it is. The life is completely difficult. We are obstacles in our lives and I will keep running to fight against the people who don't believe me.",
+      "score": 0.2689060568809509,
+      "times": "00:02:00,000 --> 00:02:45,000",
+      "text": "Do you think what makes you different to the others, to the next run on the ladder, if you like? The very good players is the dedication level that you put in. I think I am good, but I think my men's strength is my mind. I think it's my strongest point. It's my mind. The numbers they don't like. If you see during the last 15 years, my level is always kind of the same. Therefore, dedication, work hard because the talent is not enough anymore. And if you're not dedicated under percents, you're not going to reach the level that you want. Nobody is perfect. We failed so many times. We have so many uncertainty in our lives that we have to be capable when we are down to stand up.",
       "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/tree/main/data/clips_compressed/clip_5.mp4"
     }
   ]

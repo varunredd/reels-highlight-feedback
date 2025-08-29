@@ -3,7 +3,7 @@ import json, glob
 RUNS_DIR = "runs"
 
 # Base URL for your dataset repo
-DATASET_URL = "https://huggingface.co/datasets/bharathreddy202/reels-clips/resolve/main/"
+DATASET_URL = "https://huggingface.co/datasets/bharathreddy202/reels-clips/tree/main/data/clips_compressed/"
 
 for file in glob.glob(f"{RUNS_DIR}/*.json"):
     with open(file, "r") as f:
