@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-08-29_04-49-20",
+  "video": "data/videos/output.mp4",
+  "model_used": "transformer",
+  "num_highlights": 5,
+  "clips": [
+    {
+      "rank": 1,
+      "score": 1.0,
+      "times": "00:00:04,000 --> 00:00:09,000",
+      "text": "I don't follow the record. The records follow me in my mind. I'm always good.",
+      "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/tree/main/data/clips_compressed/clip_1.mp4"
+    },
+    {
+      "rank": 2,
+      "score": 1.0,
+      "times": "00:00:15,000 --> 00:00:23,000",
+      "text": "The talent is part of me, but if you don't work the talent, you're never going to achieve that thing that I'm achieved.",
+      "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/tree/main/data/clips_compressed/clip_2.mp4"
+    },
+    {
+      "rank": 3,
+      "score": 1.0,
+      "times": "00:00:24,000 --> 00:00:34,000",
+      "text": "I try to do my things to improve myself in a training, specifically in games, because this is the most important thing.",
+      "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/tree/main/data/clips_compressed/clip_3.mp4"
+    },
+    {
+      "rank": 4,
+      "score": 1.0,
+      "times": "00:00:35,000 --> 00:00:38,000",
+      "text": "I always try to improve something season by season.",
+      "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/tree/main/data/clips_compressed/clip_4.mp4"
+    },
+    {
+      "rank": 5,
+      "score": 1.0,
+      "times": "00:02:19,000 --> 00:02:28,000",
+      "text": "The numbers they don't like. If you see during the last 15 years, my level is always kind of the same.",
+      "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/tree/main/data/clips_compressed/clip_5.mp4"
+    }
+  ]
+}
