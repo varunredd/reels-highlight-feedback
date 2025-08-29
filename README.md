@@ -53,12 +53,12 @@ That’s it! You’ve contributed to training a better AI 🎉
 📂 Project Structure
 
 Reels/
-│── data/                # Videos, audio, transcripts, clips
-│── models/              # Trained highlight detector
-│── notebooks/           # Review + feedback collection notebooks
-│── src/ml/              # ML scripts (train, inference, dataset builder)
-│── run_full_cycle.sh    # End-to-end automation script
-│── gradio_feedback_demo.py (UI entrypoint)
+├── data/ # Videos, audio, transcripts, clips
+├── models/ # Trained highlight detector
+├── notebooks/ # Review + feedback collection notebooks
+├── src/ml/ # ML scripts (train, inference, dataset builder)
+├── run_full_cycle.sh # End-to-end automation script
+└── gradio_feedback_demo.py # UI entrypoint
 
 
 🔮 Roadmap
