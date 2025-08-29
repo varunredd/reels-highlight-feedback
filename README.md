@@ -1,6 +1,3 @@
----
-title: friends
-app_file: app.py
-sdk: gradio
-sdk_version: 5.44.1
----
+# reels-highlight-feedback
+
+Web app for reviewing video highlights and contributing feedback to train our AI.
