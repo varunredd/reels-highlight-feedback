@@ -1,14 +1,21 @@
-# Large/temporary files
+# === Large/temporary files ===
 data/videos/*
 data/audio/*
+data/clips/*
+data/clips_compressed/*
 data/transcripts/*
 notebooks/reviews/*
+models/*
 venv/
 __pycache__/
 .cache/
-models/*
+*.DS_Store
 
-# Keep small placeholders
+# === Keep small placeholders ===
 !data/.gitkeep
 !notebooks/.gitkeep
 !models/.gitkeep
+
+# === Explicitly keep JSON run files ===
+!runs/*.json
+reels-clips/

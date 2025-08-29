@@ -1,16 +1,19 @@
-import json, glob, os
+import json, glob
 
 RUNS_DIR = "runs"
-OLD_PATH = "data/clips/"
-NEW_PATH = "data/clips_compressed/"
+
+# Base URL for your dataset repo
+DATASET_URL = "https://huggingface.co/datasets/bharathreddy202/reels-clips/resolve/main/"
 
 for file in glob.glob(f"{RUNS_DIR}/*.json"):
     with open(file, "r") as f:
         data = json.load(f)
 
     for clip in data.get("clips", []):
-        if "file" in clip and clip["file"].startswith(OLD_PATH):
-            clip["file"] = clip["file"].replace(OLD_PATH, NEW_PATH)
+        if "file" in clip:
+            # Always rewrite to dataset URL + filename
+            filename = clip["file"].split("/")[-1]  # keep just clip_1.mp4 etc.
+            clip["file"] = DATASET_URL + filename
 
     with open(file, "w") as f:
         json.dump(data, f, indent=2)
