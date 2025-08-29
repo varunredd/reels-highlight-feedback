@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-08-29_05-43-57",
+  "video": "data/videos/output.mp4",
+  "model_used": "transformer",
+  "num_highlights": 5,
+  "clips": [
+    {
+      "rank": 1,
+      "score": 0.41977137327194214,
+      "times": "00:05:55,000 --> 00:06:40,000",
+      "text": "Are you the best footballer in the world right now? I think so, yes. In my mind I'm always the best. I don't care what the people are thinking, what they say. In my mind, not just this year but always I'm always the best. I'm always going to say that because I think we have to think we are the best in our area. So in my area I think I'm the best. Is there anything that Lionel Messi is better than you are? It's opinions. I respect the opinions. Maybe your opinion means better than me. But in my mind I'm better than him. Is that rival we are good things? For me rival than exists. The means of this world is not that exists. Rivals is in the war. We have rivals. In football now it's just a game. I think the numbers they say everything. I don't need to say arm. I'm an Easter off football, I'm a legend. The numbers say everything. This is I'm very comfortable.",
+      "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/resolve/main/data/clips_compressed/clip_1.mp4"
+    },
+    {
+      "rank": 2,
+      "score": 0.4117142856121063,
+      "times": "00:05:35,000 --> 00:06:20,000",
+      "text": "But they have to say to be in my shoes is not easy but I'm not complaining. I just want to say that I'm feel happy. All this happened because the reason. The reason is I'm unbelievable inside the pitch. This is why the people have so much interest in me. Are you the best footballer in the world right now? I think so, yes. In my mind I'm always the best. I don't care what the people are thinking, what they say. In my mind, not just this year but always I'm always the best. I'm always going to say that because I think we have to think we are the best in our area. So in my area I think I'm the best. Is there anything that Lionel Messi is better than you are? It's opinions. I respect the opinions. Maybe your opinion means better than me. But in my mind I'm better than him.",
+      "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/resolve/main/data/clips_compressed/clip_2.mp4"
+    },
+    {
+      "rank": 3,
+      "score": 0.40175533294677734,
+      "times": "00:07:20,000 --> 00:08:05,000",
+      "text": "They probably do add to the motivation. I think all the great sportsmen in the world have always had that someone else to feed off. I think this is another great rivalry in football. They don't talk about it. There's a bit of respect between them. They don't mention each other really. But they're just phenomenal to watch. People try and make comparisons of who's better, etc. Just enjoy them. How much has Leonel Messi pushed you to become a better player? I'm pushed to myself. I don't need other players to push myself. I just want to see that I was in sporting. I push myself all the time to be the best. As I say many times in my opinion, I'm the best. I think we have to think like that. Not just in my job, but you have to think in your job. You are the best reporter. I'm thinking like that. If I'm not thinking like that, I'm not going to be stronger than I think I am. But you also love individual rules. I'm not a tea. It's part of my sacrifice, my obsession to win, to have success. When I say success, it's a work for that.",
+      "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/resolve/main/data/clips_compressed/clip_3.mp4"
+    },
+    {
+      "rank": 4,
+      "score": 0.39112523198127747,
+      "times": "00:03:20,000 --> 00:04:05,000",
+      "text": "I'm always said to my friends, it's good to have problems. It's the only way that you can improve. The secret is dedication and hard work to be able to work 100% all the time. This is if it exists, it's my secret. The legend is one of these big names that stays forever in football history. But the guy wants to motivate himself with numbers, with new things. He wants to win the gold ball at times and the golden boots at times. And he wants to not just to play these heroes, he's already thinking that he wants to play the next World Cup. Does he get angry when people say maybe Messi is better? The time is few, it's... I don't think so. I just think that critics motivate him. I think he feels, if people criticize me, is because I am...",
+      "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/resolve/main/data/clips_compressed/clip_4.mp4"
+    },
+    {
+      "rank": 5,
+      "score": 0.2576325535774231,
+      "times": "00:00:30,000 --> 00:01:15,000",
+      "text": "I try to do my things to improve myself in a training, specifically in games, because this is the most important thing. I always try to improve something season by season. Our mind is a box of surprises and you have to challenge yourself to be consistent. I repeat sometimes it's hard. It's what many people say. You like to go to the gym every day, of course, no. It's not true. Nobody likes to go to the gym every day. But you have to do it. Your mental strength is coming from that moment that's in a hard moment. You know you should do it. So, and I do it because after that maybe in the beginning you feel the heart starts that after when you finish the gym or go to the ranch or even the training you will feel better.",
+      "file": "https://huggingface.co/datasets/bharathreddy202/reels-clips/resolve/main/data/clips_compressed/clip_5.mp4"
+    }
+  ]
+}
