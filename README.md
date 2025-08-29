@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🎬 Reels Highlight Feedback
 
 An interactive web app for reviewing and labeling video highlight clips.
@@ -81,3 +82,11 @@ Gradio
 
 OpenAI Whisper
  for subtitle generation
+=======
+---
+title: friends
+app_file: app.py
+sdk: gradio
+sdk_version: 5.44.1
+---
+>>>>>>> 3cb2994 (Initial project commit with pipeline + feedback demo)
